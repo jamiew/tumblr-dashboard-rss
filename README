@@ -1,0 +1,3 @@
+Small WWW::Mechanize script. Logs in to Tumblr, grabs the last n pages of posts, and outputs (or saves) an RSS feed.
+
+Depends on the mechanize and rss (?) gems
